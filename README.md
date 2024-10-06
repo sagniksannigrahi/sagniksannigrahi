@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagniksannigrahi
 - 👀 I’m interested in ...AI ad Game devalopment
-- 🌱 I’m currently learning ... c++ and c
+- 🌱 I’m currently learning ... go and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...srmextrause@gmail.com
 - 😄 Pronouns: ...
